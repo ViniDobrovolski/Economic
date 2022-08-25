@@ -1,0 +1,259 @@
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\E-conomic.exe.config
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\E-conomic.exe
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\E-conomic.pdb
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.AssemblyReference.cache
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.SuggestedBindingRedirects.cache
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E_conomic.Properties.Resources.resources
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.GenerateResource.cache
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CoreCompileInputs.cache
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.exe
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.pdb
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\E-conomic.exe.config
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\E-conomic.exe
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\E-conomic.pdb
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.AssemblyReference.cache
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.SuggestedBindingRedirects.cache
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E_conomic.adicionarGastos.resources
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E_conomic.MenuPrincipal.resources
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E_conomic.Properties.Resources.resources
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.GenerateResource.cache
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CoreCompileInputs.cache
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.exe
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.pdb
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\Npgsql.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Buffers.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Memory.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Text.Json.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.ValueTuple.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\Npgsql.pdb
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\Npgsql.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Buffers.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Memory.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Text.Json.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\bin\Debug\System.ValueTuple.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CopyComplete
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\Npgsql.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Buffers.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Memory.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Text.Json.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.ValueTuple.dll
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\Npgsql.pdb
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\Npgsql.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Buffers.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Memory.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Text.Json.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\bin\Debug\System.ValueTuple.xml
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E_conomic.adicionarGastos.resources
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E_conomic.MenuPrincipal.resources
+D:\Users\vodobrovolsk\Desktop\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CopyComplete
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.AssemblyReference.cache
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.SuggestedBindingRedirects.cache
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.adicionarGastos.resources
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.MenuPrincipal.resources
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.Properties.Resources.resources
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.GenerateResource.cache
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CoreCompileInputs.cache
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.exe
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.pdb
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.exe.config
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.exe
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.pdb
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Buffers.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Memory.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Json.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.ValueTuple.dll
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.pdb
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Buffers.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Memory.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Json.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.ValueTuple.xml
+D:\Users\vodobrovolsk.UNIVEL\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CopyComplete
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.AssemblyReference.cache
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.SuggestedBindingRedirects.cache
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.Properties.Resources.resources
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.GenerateResource.cache
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CoreCompileInputs.cache
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.exe
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.pdb
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.exe.config
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.exe
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.pdb
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Buffers.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Memory.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Json.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.ValueTuple.dll
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.pdb
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Buffers.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Memory.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Json.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.ValueTuple.xml
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmTipoGasto.resources
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CopyComplete
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\LoginScreen.Form1.resources
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\LoginScreen.frmCadastro.resources
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmMenuPrincipal.resources
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmAdicionarGastos.resources
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmComparar.resources
+D:\Users\vodobrovolsk\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmResumo.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.exe.config
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.exe
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.pdb
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Buffers.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Memory.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Json.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.ValueTuple.dll
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.pdb
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Buffers.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Memory.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Json.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.ValueTuple.xml
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.AssemblyReference.cache
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmAdicionarGastos.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmComparar.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\LoginScreen.frmCadastro.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmTipoGasto.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmMenuPrincipal.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.Properties.Resources.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.GenerateResource.cache
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CoreCompileInputs.cache
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CopyComplete
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.exe
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.pdb
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmEscolhaComparar.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmResumosGastos.resources
+C:\Users\Patrícia\Desktop\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmAcoesTipo.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.AssemblyReference.cache
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmAcoesTipo.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmAdicionarGastos.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmComparar.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\LoginScreen.frmCadastro.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmEscolhaComparar.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmResumosGastos.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmTipoGasto.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.frmMenuPrincipal.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E_conomic.Properties.Resources.resources
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.GenerateResource.cache
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CoreCompileInputs.cache
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.exe
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.pdb
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.exe.config
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.exe
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\E-conomic.pdb
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Buffers.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Memory.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Json.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.ValueTuple.dll
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.pdb
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\Npgsql.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Buffers.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Memory.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Text.Json.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\bin\Debug\System.ValueTuple.xml
+C:\Users\Patrícia\Downloads\E-Conomic soluções\E-conomic\E-conomic\obj\Debug\E-conomic.csproj.CopyComplete

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2ead7f3-20a9-491e-b97c-7fcd0bdcae71": {
+      "ProjectGuid": "c2ead7f3-20a9-491e-b97c-7fcd0bdcae71",
+      "DisplayName": "E-conomic",
+      "ColorIndex": 0
+    },
+    "4012eb93-472a-4f51-a604-b07c8ca9d58e": {
+      "ProjectGuid": "4012eb93-472a-4f51-a604-b07c8ca9d58e",
+      "DisplayName": "LoginScreen",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "9d01ae1e-d7d0-4540-974f-538cdb366bd1": {
+      "ProjectGuid": "9d01ae1e-d7d0-4540-974f-538cdb366bd1",
+      "DisplayName": "Tela de Cadastro",
+      "ColorIndex": 2
+    },
+    "0b75a2a7-c8f6-45e3-8aa6-ed38f78b254b": {
+      "ProjectGuid": "0b75a2a7-c8f6-45e3-8aa6-ed38f78b254b",
+      "DisplayName": "Tela de Cadastro",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
